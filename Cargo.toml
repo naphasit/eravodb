@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+bson = "2.15.0"
+
+[dev-dependencies]
+tempfile = "3.20.0"
